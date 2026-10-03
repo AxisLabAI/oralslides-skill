@@ -1,0 +1,6 @@
+interface:
+  display_name: "OralSlides Local"
+  short_description: "Create narrated slide videos locally"
+  default_prompt: "Use $oralslides-local to turn this presentation into a narrated MP4."
+policy:
+  allow_implicit_invocation: true
